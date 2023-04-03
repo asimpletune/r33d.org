@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       fontFamily: {
         'playfair-display': ['Playfair Display'],
-        'fira-sans': ['Fira Sans'],
+        'fira-sans-thin': ['Fira Sans Thin'],
+        'fira-sans-regular': ['Fira Sans Regular'],
       }
     },
   },

@@ -4,13 +4,24 @@
 @tailwind components;
 @tailwind utilities;
 
-// https://fonts.google.com/specimen/Playfair+Display
-@font-face {
-  font-family: 'Playfair Display';
-  src: url('/font/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf');
+/* Note: discussion on supporting multiple font-weights in tailwind https://github.com/tailwindlabs/tailwindcss/discussions/3225 */
+@supports (font-variation-settings: normal) {
+  @font-face {
+    font-family: "Playfair Display"; // https://fonts.google.com/specimen/Playfair+Display
+    font-style: normal;
+    font-weight: 400 900; // Playfair Display goes from 'Regular' to 'Black', i.e. 400 - 900
+    font-display: swap;
+    src: url("/font/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf") format("ttf");
+    font-named-instance: "Regular";
+  }
 }
 
 @font-face {
-  font-family: 'Fira Sans';
-  src: url('/font/Fira_Sans/FiraSans-Regular.ttf');
+  font-family: 'Fira Sans Thin';
+  src: url('/font/Fira_Sans/FiraSans-thin.ttf');
+}
+
+@font-face {
+  font-family: 'Fira Sans Regular';
+  src: url('/font/Fira_Sans/FiraSans-regular.ttf');
 }
