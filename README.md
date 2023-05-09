@@ -43,6 +43,7 @@ Here are some additional things to know about deployments
 * There is a file called `_headers` which is a convention used by cloudflare pages to set HTTP headers for the static site
 * `ZOLA_VERSION=0.17.2` must be explicitly set in cloudflare pages build settings
 * `NODE_VERSION=14.0.0` must be explicitly set in cloudflare pages build settings
+* There's a file, `CHANGELOG.md`, that helps track what's changed as the site evolves
 
 ## Notes:
 
