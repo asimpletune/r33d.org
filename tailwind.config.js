@@ -9,22 +9,20 @@ module.exports = {
         'playfair-display': ['Playfair Display', ...defaultTheme.fontFamily.serif],
         'fira-sans': ['Fira Sans', ...defaultTheme.fontFamily.sans],
       },
-      // https://tailwindcss.com/docs/typography-plugin#adding-custom-color-themes
       typography: ({ theme }) => ({
-        // Note: used for customizing the 'meeting minutes' markdown, see CSS class '.prose-minutes' for where it's used
+        /**
+         * Notes:
+         * 1. 'minutes' is a custom 'color theme', see https://tailwindcss.com/docs/typography-plugin#adding-custom-color-themes
+         * 2. it's used for customizing the 'meeting minutes' markdown, search CSS class 'prose-minutes' to find its use
+         * 3. however it's preferred to use 'element modifiers' directly in the html if you can, see https://tailwindcss.com/docs/typography-plugin#element-modifiers
+         * 4. typography internal style definitions https://github.com/tailwindlabs/tailwindcss-typography/blob/master/src/styles.js
+         */
         minutes: {
           css: {
-            '--tw-prose-bullets': theme('colors.pink[400]'), // Note: to see prose specific overrides, go to the `styles.js` file, within the typography plugin's node_modules directory
+            '--tw-prose-bullets': theme('colors.pink[400]'),
             '--tw-prose-hr': theme('colors.violet[400]'),
             '--tw-prose-links': theme('colors.blue[600]'),
-            h2: {
-              textAlign: 'right'
-            },
-            h3: {
-              '--tw-prose-links': theme('colors.black'),
-              fontFamily: 'playfair-display',
-              padding: '0 5px',
-            },
+            h3: { '--tw-prose-links': theme('colors.black') },
             '.zola-anchor': {
               color: theme('colors.green[500]'),
               marginRight: '2px',
