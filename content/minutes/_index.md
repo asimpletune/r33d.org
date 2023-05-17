@@ -12,6 +12,9 @@ insert_anchor_links = "left"
 - 📚 chap. 1...4 - 🔗 ([PG](https://www.gutenberg.org/ebooks/59709), [Alt.](https://terebess.hu/english/chuangtzu.html))
 - proposed by [Andrew](https://www.andrewcraft.nyc)
 
+![Butcher illustration 1](zhuangzi_butcher-1_andrew-craft.webp "The more skilled the butcher the less they use their knife")
+![Butcher illustration 2](zhuangzi_butcher-2_andrew-craft.webp "The novice butcher hacks at the meat and must sharpen their knife more often")
+
 ---
 
 ## 16 April, 2023
@@ -31,6 +34,8 @@ insert_anchor_links = "left"
 * 📚 *Tale of the Trader and the Jinni* - 🔗 ([PG](https://www.gutenberg.org/ebooks/51252))
 * Meeting #2 ([Meeting #1](#26-march-2023))
 
+!['Jinni' illustration](arabian-nights_jinni-1_andrew-craft.webp "A genie demands recompense for the accidental death of his son")
+
 ---
 
 ## 26 March, 2023
@@ -40,7 +45,7 @@ insert_anchor_links = "left"
 * by Anonymous
 * translated by [Sir Richard Francis Burton](https://en.wikipedia.org/wiki/Richard_Francis_Burton)
 * published 1888
-* 📚 *Tale of the Trader and the Jinni* - 🔗 ([PG](https://www.gutenberg.org/ebooks/51252))
+* 📚 *Tale of the Bull and the Ass* - 🔗 ([PG](https://www.gutenberg.org/ebooks/51252))
 * meeting #1 ([Meeting #2](#02-april-2023))
 
 ---
