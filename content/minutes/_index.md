@@ -1,0 +1,46 @@
++++
+template = "minutes.html"
+insert_anchor_links = "left"
++++
+
+## 15 May, 2023
+
+### [*Zhuangzi*](https://en.wikipedia.org/wiki/Zhuangzi_(book))
+
+- by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou)
+- published c. 2nd century BCE
+- 📚 chap. 1...4 - 🔗 ([PG](https://www.gutenberg.org/ebooks/59709), [Alt.](https://terebess.hu/english/chuangtzu.html))
+- proposed by [Andrew](https://www.andrewcraft.nyc)
+
+---
+
+## 16 April, 2023
+
+### [*The Federalist Papers*](https://en.wikipedia.org/wiki/The_Federalist_Papers)
+
+* by [Alexander Hamilton](https://en.wikipedia.org/wiki/Alexander_Hamilton), [John Jay](https://en.wikipedia.org/wiki/John_Jay), and [James Madison](https://en.wikipedia.org/wiki/James_Madison)
+* published serially between 1787-1788
+* 📚 Federalist no. 9, 10, 15...20 - 🔗 ([Library of Congress](https://guides.loc.gov/federalist-papers/full-text))
+
+---
+
+## 02 April, 2023
+
+### [*The Book of the Thousand Nights and a Night*](https://en.wikipedia.org/wiki/The_Book_of_the_Thousand_Nights_and_a_Night)
+
+* 📚 *Tale of the Trader and the Jinni* - 🔗 ([PG](https://www.gutenberg.org/ebooks/51252))
+* Meeting #2 ([Meeting #1](#26-march-2023))
+
+---
+
+## 26 March, 2023
+
+### [*The Book of the Thousand Nights and a Night*](https://en.wikipedia.org/wiki/The_Book_of_the_Thousand_Nights_and_a_Night)
+
+* by Anonymous
+* translated by [Sir Richard Francis Burton](https://en.wikipedia.org/wiki/Richard_Francis_Burton)
+* published 1888
+* 📚 *Tale of the Trader and the Jinni* - 🔗 ([PG](https://www.gutenberg.org/ebooks/51252))
+* meeting #1 ([Meeting #2](#02-april-2023))
+
+---

@@ -52,25 +52,30 @@
 </head>
 
 <body class=" bg-yellow-400">
-  <article class="md:mt-16 mx-auto prose md:prose-lg prose-blue">
-    {# <img width=" 512" height="512" class="w-full mb-2 md:mb-8" src="/illo/sophocles-nested.svg"
+  <main>
+    <article class="md:mt-16 mx-auto prose md:prose-lg prose-minutes">
+      {# <img width=" 512" height="512" class="w-full mb-2 md:mb-8" src="/illo/sophocles-nested.svg"
       alt="A bust of sophpocles, repeating to infinty in different bright colors"> #}
-    {# Note font-weights: https://tailwindcss.com/docs/font-weight #}
-    <div id="heading" class="px-2 not-prose text-gray-900">
-      <h1 class="">
-        <span class="block text-left
+      {# Note font-weights: https://tailwindcss.com/docs/font-weight #}
+      <div id="heading" class="px-2 not-prose text-gray-900">
+        <h1 class="">
+          <span class="block text-left
         text-7xl md:text-9xl
         font-playfair-display font-semibold
         "><a href="/">Public Works</a></span>
-        <span class="block text-right text-5xl md:text-7xl font-thin">Meeting Minutes</span>
-      </h1>
-    </div>
-    <hr class="border-black border-[1.5px]">
-    <div id="content" class="my-16 px-2 font-fira-sans font-normal">
-      {{ page.content | safe }}
-    </div>
-  </article>
+          <span class="block text-right text-5xl md:text-7xl font-thin">Meeting Minutes</span>
+        </h1>
+      </div>
+      <hr class="border-black border-[1.5px]">
+      <div id="content" class="my-16 px-2 font-fira-sans font-normal">
+        {{ section.content | safe }}
+      </div>
+    </article>
   </main>
+  <footer class="flex pb-14">
+    <a class="mx-auto text-xl underline" href="/">Back to main</a>
+  </footer>
+
 </body>
 
 </html>
