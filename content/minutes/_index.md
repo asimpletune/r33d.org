@@ -22,7 +22,7 @@ insert_anchor_links = "left"
 ### [*The Federalist Papers*](https://en.wikipedia.org/wiki/The_Federalist_Papers)
 
 * by [Alexander Hamilton](https://en.wikipedia.org/wiki/Alexander_Hamilton), [John Jay](https://en.wikipedia.org/wiki/John_Jay), and [James Madison](https://en.wikipedia.org/wiki/James_Madison)
-* published serially between 1787-1788
+* published serially between 1787-1788 CE
 * 📚 Federalist no. 9, 10, 15...20 - 🔗 ([Library of Congress](https://guides.loc.gov/federalist-papers/full-text))
 
 ---
@@ -44,7 +44,7 @@ insert_anchor_links = "left"
 
 * by Anonymous
 * translated by [Sir Richard Francis Burton](https://en.wikipedia.org/wiki/Richard_Francis_Burton)
-* published 1888
+* published 1888 CE
 * 📚 *Tale of the Bull and the Ass* - 🔗 ([PG](https://www.gutenberg.org/ebooks/51252))
 * meeting #1 ([Meeting #2](#02-april-2023))
 
@@ -65,7 +65,7 @@ insert_anchor_links = "left"
 ### [*The Tempest*](https://en.wikipedia.org/wiki/The_Tempest)
 
 * by [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)
-* written CE ~1610–1611
+* written c. 1610–1611 CE
 * 📚 full play - 🔗 ([SEB](https://standardebooks.org/ebooks/william-shakespeare/the-tempest))
 
 ---
@@ -75,7 +75,7 @@ insert_anchor_links = "left"
 ### [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
 
 * by [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
-* written CE ~170-180
+* written 170-180 CE
 * 📚 full book - 🔗 ([SEB](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long))
 
 ---
