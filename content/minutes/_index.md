@@ -49,3 +49,33 @@ insert_anchor_links = "left"
 * meeting #1 ([Meeting #2](#02-april-2023))
 
 ---
+
+## 25 February, 2023
+
+### [*Antigone*](https://en.wikipedia.org/wiki/Antigone_(Sophocles_play))
+
+* by [Sophocles](https://en.wikipedia.org/wiki/Sophocles)
+* first performed 441 BCE
+* 📚 full play - 🔗 ([PG](https://www.gutenberg.org/ebooks/31))
+
+---
+
+## 23 July, 2022
+
+### [*The Tempest*](https://en.wikipedia.org/wiki/The_Tempest)
+
+* by [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)
+* written CE ~1610–1611
+* 📚 full play - 🔗 ([SEB](https://standardebooks.org/ebooks/william-shakespeare/the-tempest))
+
+---
+
+## 03 May, 2022
+
+### [*Meditations*](https://en.wikipedia.org/wiki/Meditations)
+
+* by [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+* written CE ~170-180
+* 📚 full book - 🔗 ([SEB](https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long))
+
+---
