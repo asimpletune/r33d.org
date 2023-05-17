@@ -8,7 +8,7 @@ Public works is a book club where we only read stuff that is in the [public doma
 
 ## Works Read So Far
 
-Below is a list of our readings thus far - ([Meeting minutes](/minutes)).
+Below is a list of our readings thus far - (see full [Meeting minutes](/minutes)).
 
 1. [*Meditations*](https://en.wikipedia.org/wiki/Meditations) by [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) - 170-180 CE
 2. [*The Tempest*](https://en.wikipedia.org/wiki/The_Tempest) by [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) - c. 1610–1611 CE
