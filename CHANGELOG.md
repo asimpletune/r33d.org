@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4 (TODO)
+
+- add 'Foundations of Antiquity' as first 'public sector', along with some preliminary content
+- add 'public sectors' section to landing page
+
 ## 1.0.3 (2023-05-17)
 
 - add `build-deploy` run script in package.json

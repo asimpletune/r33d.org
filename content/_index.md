@@ -17,6 +17,12 @@ Below is a list of our readings thus far - (see full [Meeting minutes](/minutes)
 5. [*The Federalist Papers*](https://en.wikipedia.org/wiki/The_Federalist_Papers) by [Alexander Hamilton](https://en.wikipedia.org/wiki/Alexander_Hamilton), [John Jay](https://en.wikipedia.org/wiki/John_Jay), and [James Madison](https://en.wikipedia.org/wiki/James_Madison) - 1787-1788 CE
 6. [*Zhuangzi*](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) - c. 2nd century BCE (published)
 
+## Public Sectors
+
+Below is an ongoing list of "sectors" that organize information, thematically, that spans many works and even time periods. ( `*`  indicates current sector)
+
+1. \* [Foundations of Antiquity](/sectors/foundations-of-antiquity) - from Homer to Aristotle, understanding the context of the ancient world, and how it pertains to today
+
 ## Suggestions/More Information
 
 If you have recommendations of great stuff that we should read, or if you'd like to get in touch please reach out to [info@r33d.org](mailto:info@r33d.org).
