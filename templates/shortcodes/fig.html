@@ -1,54 +1,17 @@
 {# The following is a shortcode that extracts parameters from a markdown-style image #}
 {# The usage is as follows (`cite` is optional) #}
 {# {{ fig(img='![alt](src "title")', cite='<a href="">author</a>, by source') }} #}
+{# `title` will be reused as caption if it exists, if no `title` but there is `cite` then just "Citation:" will appear #}
+{# NOTE: it's advised to just use backticks for passing arguments, so that single and double quotes don't cause issues, e.g. using a possesive apostrophe or quotes in a caption #}
 
-{# Rename variables for better readability #}
-{% set str = img %}
+{% set img_tag = img | markdown %}
 
-{# Instantiate indices #}
-{% set alt_s = 0 %}
-{% set alt_e = str | length %}
-
-{% set src_s = 0 %}
-{% set src_e = str | length %}
-
-{% set tit_s = 0 %}
-{% set tit_e = 0 %}
-
-{# Examine string letter by letter and extract parts #}
-{% for l in str %}
-
-{# Parse alt #}
-{% if l == "[" %}
-{% set_global alt_s = loop.index0 + 1 %}
-{% elif l == "]" %}
-{% set_global alt_e = loop.index0 %}
-
-{# Parse src #}
-{% elif l == "(" %}
-{% set_global src_s = loop.index0 + 1 %}
-{% elif l == " " and src_s > 0 and tit_s == 0 %}
-{% set_global src_e = loop.index0 %}
-{% elif l == ")" and tit_s == 0 %}
-{% set_global src_e = loop.index0 %}
-
-{# Parse title (Note: 'and' binds before 'or') #}
-{% elif l == '"' and tit_s == 0 or l == "'" and tit_s == 0 %}
-{% set_global tit_s = loop.index0 + 1 %}
-{% elif l == '"' and tit_s > 0 or l == "'" and tit_s > 0 %}
-{% set_global tit_e = loop.index0 %}
-
-{% endif %}
-{% endfor %}
-
-{# Tokenize string characters into an array, and pull out slices #}
-{% set str_arr = str | split(pat="") | slice(start=1, end=-1) %}
-{% set alt = str_arr | slice(start=alt_s, end=alt_e) | join(sep="") %}
-{% set src = str_arr | slice(start=src_s, end=src_e) | join(sep="") %}
-{% set title = str_arr | slice(start=tit_s, end=tit_e) | join(sep="") %}
+{% set src = img_tag | split(pat="src") | nth(n=1) | split(pat='"') | nth(n=1) %}
+{% set alt = img_tag | split(pat="alt") | nth(n=1) | split(pat='"') | nth(n=1) %}
+{% set title = img_tag | split(pat="title") | nth(n=1) | split(pat='"') | nth(n=1) %}
 
 <figure class="prose-figcaption:mt-2 prose-figcaption:mx-2">
-  <img src="{{ src }}" alt="{{ alt }}" title="{{ title }}" class="border-2 border-attic-black-900">
+  <img src="{{ src }}" alt="{{ alt }}" title="{{ title }}" class="border md:border-2 border-attic-black-900">
   <figcaption class="font-light text-[rgb(55,65,81)]">
     {% if cite %}
     <details class="hover:cursor-pointer">
