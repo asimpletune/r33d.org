@@ -47,11 +47,10 @@
 {% set src = str_arr | slice(start=src_s, end=src_e) | join(sep="") %}
 {% set title = str_arr | slice(start=tit_s, end=tit_e) | join(sep="") %}
 
-<figure class="">
+<figure class="prose-figcaption:mt-2 prose-figcaption:mx-2">
   <img src="{{ src }}" alt="{{ alt }}" title="{{ title }}" class="border-2 border-attic-black-900">
-
-  {% if cite %}
-  <figcaption>
+  <figcaption class="font-light text-[rgb(55,65,81)]">
+    {% if cite %}
     <details class="hover:cursor-pointer">
       <summary class="font-light mt-1">
         {% if title %}{{ title }}{% else %}Citation:{% endif %}
@@ -62,10 +61,8 @@
         {{ cite | safe }}
       </cite>
     </details>
-  </figcaption>
-  {% elif title %}
-  <figcaption>
+    {% elif title %}
     {{ title }}
+    {% endif%}
   </figcaption>
-  {% endif %}
 </figure>
