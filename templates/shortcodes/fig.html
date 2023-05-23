@@ -59,7 +59,7 @@
       {# Make sure external links open in a separate tab and are secure #}
       {% set cite = cite | replace(from="<a", to="<a target='_blank' rel='noopener nofollow noreferrer'") %}
       <cite class="mt-4 block p-4 bg-attic-gray-100/50">
-        {% if title %}Citation: {% endif %}({{ cite | safe }})
+        {{ cite | safe }}
       </cite>
     </details>
   </figcaption>

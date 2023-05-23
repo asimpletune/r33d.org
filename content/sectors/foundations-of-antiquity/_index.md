@@ -33,15 +33,15 @@ It was this volcanic eruption that buried the nearby Minoan settlement of [Akrot
 
 #### Mycenaean Civilization (c. 1750 – c. 1050 BC)
 
-Another, important civilization belongs to the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece), who were part of the last phase of the Bronze Age in Ancient Greece, roughly coinciding with the mythical and quasi-historical [Trojan War](#trojan-war). Unlike the [Minoans](#minoan-civilization-c-3200-c-1100-bce), the Mycenaeans were mainlanders,
+Another important civilization belonged to the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece), who were part of the last phase of the Bronze Age in Ancient Greece, roughly coinciding with the mythical and quasi-historical [Trojan War](#trojan-war-c-1200-bce). Unlike the [Minoans](#minoan-civilization-c-3200-c-1100-bce), the Mycenaeans were from the main continent, who expanded their influence to the surrounding islands.
 
 {{ fig(img='
   ![Map of the Mycenaean World](/img/maps/Mycenaean_World_en.webp "The Mycenaean World c. 1400 - c. 1100 BCE")
   ', cite='<a href="https://commons.wikimedia.org/wiki/File:Mycenaean_World_en.png">User:Alexikoua, User:Panthera tigris tigris, TL User:Reedside</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons') }}
 
-### Trojan War
+### Trojan War (c. 1200 BCE)
 
-The [Trojan War](https://en.wikipedia.org/wiki/Trojan_War).
+The [Trojan War](https://en.wikipedia.org/wiki/Trojan_War) is the subject of the Homeric epic poem [The Iliad](https://en.wikipedia.org/wiki/Iliad) (Ἰλιάς), telling the story of a protracted Greek siege of the city of [Troy](https://en.wikipedia.org/wiki/Troy) (Ίλιον), after [Paris](https://en.wikipedia.org/wiki/Paris_(mythology)) (Πάρις) of Troy took [Helen](https://en.wikipedia.org/wiki/Helen_of_Troy) (Ἑλένη), the wife of [King Menelaus](https://en.wikipedia.org/wiki/Menelaus) of Sparta away. The city of Troy eventually falls, due to the cunning [Odyssey's](https://en.wikipedia.org/wiki/Odysseus) (Ὀδυσσεύς) Trojan Horse. The exact date of the Trojan war is unknown, but the best sources of antiquity believed it be c. 1184 BCE, which was determined by [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes). To the ancient Greeks, the war existed somewhere between being the last event of the mythical age and the first event of the historical age.
 
 ## Texts
 
