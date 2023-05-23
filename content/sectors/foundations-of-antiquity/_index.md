@@ -2,8 +2,6 @@
 template = "sector.html"
 +++
 
-<!-- [![Map of Greece, drawn in 1791 by William Faden](/img/maps/map-of-greece-and-anadoli.webp "Map of Greece, drawn in 1791 by William Faden")](https://en.wikipedia.org/wiki/Minoan_civilization#/media/File:Map_of_Greece,_Archipelago_and_part_of_Anadoli;_Louis_Stanislas_d'Arcy_Delarochette_1791.jpg) -->
-
 This page is a part of the [public sector](/#public-sectors) series, offered by the [Public Works](/) book club.
 It serves to organize information, across different textual works, about the early part of [classical antiquity](https://en.wikipedia.org/wiki/Classical_antiquity).
 The time periods covered by this page begins with the resurgence of Greek writing and the first [Olympic Games](https://en.wikipedia.org/wiki/Ancient_Olympic_Games) (Ὀλυμπιακοὶ ἀγῶνες)
@@ -21,21 +19,25 @@ Periods of ancient Greece _(although the rise of [Alexander the Great](https://e
 
 ## Historical Context
 
-* Humans have been in Greece for 200,000 years (earliest Homo sapiens remains found outside of Africa)
-* First evidence of farming in Europe was found in Greece, going back to c. 7,000 BCE
-
-
-### Neolithic Greece and Before
+### Neolithic Greece and Earlier
 
 Humans have been in Greece for over 200,000 years, where the earliest *Homo sapiens* remains outside of Africa have been discovered. The earliest evidence of the domestication of cats was [discovered in Cyprus](https://en.wikipedia.org/wiki/Domestication_of_the_cat#Archaeological_evidence) around 9500 BCE. It is upon the emergence of farming around __7000 BCE__ that we mark the beginning of [Neolithic Greece](https://en.wikipedia.org/wiki/Neolithic_Greece) __(c. 7000 – c. 3200 BCE)__. This is the earliest evidence of farming in Europe, most likely due to Greece's close proximity to Asia.
 
-### Bronze Age (c. 3200 - 776 BCE)
+### Bronze Age (c. 3200 – c. 1200 BCE)
 
-The [Bronze Age](/https://en.wikipedia.org/wiki/Bronze_Age) in Greece begins with the [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) around 3200 BCE, on the island of Crete. These people are considered the "first link" in the European chain, and are known for their large palaces built, the largest is that of [Knossos](https://en.wikipedia.org/wiki/Knossos). The humongous palaces of the era are strong indicates of the oldest advanced civilization in Europe.
+#### Minoan Civilization (c. 3200 – c. 1100 BCE)
 
-Later came the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece).
+The [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) in Greece begins with the [Minoans](https://en.wikipedia.org/wiki/Minoan_civilization) c. 3200 BCE, on the island of Crete and other Aegean Islands, called thus by archeologists after the mythical [King Minos](https://en.wikipedia.org/wiki/Minos). These people are considered the "first link" in the European chain, and are considered the oldest advanced civilization in Europe, due to the large palaces they built and left behind, the largest of which is [Knossos](https://en.wikipedia.org/wiki/Knossos). There is evidence between c. 1800 BCE and c. 1450 BCE of a potential Minoan writing system called [Linear A](https://en.wikipedia.org/wiki/Linear_A). Their civilization experienced a a slow decline starting c. 1550 BCE, for reasons that are still unclear, although the timeline corresponds roughly with the rise of the [Mycenaean Civilization](#minoan-civilization-c-3200-c-1100-bce), as well as the [volcanic eruption of Thera](https://en.wikipedia.org/wiki/Minoan_eruption), which is modern day Santorini.
 
-This is all work in progress. To be continued...
+It was this volcanic eruption that buried the nearby Minoan settlement of [Akrotiri](https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)), leaving the ruins remarkable well-preserved, similar to the famous [Pompeii](https://en.wikipedia.org/wiki/Pompeii) well over a thousands years after it.
+
+#### Mycenaean Civilization (c. 1750 – c. 1050 BC)
+
+Another, later, important civilization was the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece), who were part of the last phase of the Bronze Age in Ancient Greece, roughly coinciding with the mythical and quasi-historical [Trojan War](#trojan-war).
+
+### Trojan War
+
+The [Trojan War](https://en.wikipedia.org/wiki/Trojan_War).
 
 ## Texts
 
