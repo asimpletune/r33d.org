@@ -1,0 +1,71 @@
+{# The following is a shortcode that extracts parameters from a markdown-style image #}
+{# The usage is as follows (`cite` is optional) #}
+{# {{ fig(img='![alt](src "title")', cite='<a href="">author</a>, by source') }} #}
+
+{# Rename variables for better readability #}
+{% set str = img %}
+
+{# Instantiate indices #}
+{% set alt_s = 0 %}
+{% set alt_e = str | length %}
+
+{% set src_s = 0 %}
+{% set src_e = str | length %}
+
+{% set tit_s = 0 %}
+{% set tit_e = 0 %}
+
+{# Examine string letter by letter and extract parts #}
+{% for l in str %}
+
+{# Parse alt #}
+{% if l == "[" %}
+{% set_global alt_s = loop.index0 + 1 %}
+{% elif l == "]" %}
+{% set_global alt_e = loop.index0 %}
+
+{# Parse src #}
+{% elif l == "(" %}
+{% set_global src_s = loop.index0 + 1 %}
+{% elif l == " " and src_s > 0 and tit_s == 0 %}
+{% set_global src_e = loop.index0 %}
+{% elif l == ")" and tit_s == 0 %}
+{% set_global src_e = loop.index0 %}
+
+{# Parse title (Note: 'and' binds before 'or') #}
+{% elif l == '"' and tit_s == 0 or l == "'" and tit_s == 0 %}
+{% set_global tit_s = loop.index0 + 1 %}
+{% elif l == '"' and tit_s > 0 or l == "'" and tit_s > 0 %}
+{% set_global tit_e = loop.index0 %}
+
+{% endif %}
+{% endfor %}
+
+{# Tokenize string characters into an array, and pull out slices #}
+{% set str_arr = str | split(pat="") | slice(start=1, end=-1) %}
+{% set alt = str_arr | slice(start=alt_s, end=alt_e) | join(sep="") %}
+{% set src = str_arr | slice(start=src_s, end=src_e) | join(sep="") %}
+{% set title = str_arr | slice(start=tit_s, end=tit_e) | join(sep="") %}
+
+<figure class="">
+  <img src="{{ src }}" alt="{{ alt }}" title="{{ title }}" class="border-2 border-attic-black-900">
+
+  {% if cite %}
+  <figcaption>
+    <details class="hover:cursor-pointer">
+      <summary class="font-light mt-1">
+        {% if title %}{{ title }}{% else %}Citation:{% endif %}
+      </summary>
+      {# Make sure external links open in a separate tab and are secure #}
+      {% set cite = cite | replace(from="<a", to="<a target='_blank' rel='noopener nofollow noreferrer'") %}
+      <cite class="mt-4 block p-4 bg-attic-gray-100/50">
+        {% if title %}Citation: {% endif %}({{ cite | safe }})
+      </cite>
+    </details>
+  </figcaption>
+  {% elif title %}
+  <figcaption>
+    {{ title }}
+  </figcaption>
+  {% endif %}
+</figure>

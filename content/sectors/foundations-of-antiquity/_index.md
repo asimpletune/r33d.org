@@ -33,7 +33,11 @@ It was this volcanic eruption that buried the nearby Minoan settlement of [Akrot
 
 #### Mycenaean Civilization (c. 1750 – c. 1050 BC)
 
-Another, later, important civilization was the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece), who were part of the last phase of the Bronze Age in Ancient Greece, roughly coinciding with the mythical and quasi-historical [Trojan War](#trojan-war).
+Another, important civilization belongs to the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece), who were part of the last phase of the Bronze Age in Ancient Greece, roughly coinciding with the mythical and quasi-historical [Trojan War](#trojan-war). Unlike the [Minoans](#minoan-civilization-c-3200-c-1100-bce), the Mycenaeans were mainlanders,
+
+{{ fig(img='
+  ![Map of the Mycenaean World](/img/maps/Mycenaean_World_en.webp "The Mycenaean World c. 1400 - c. 1100 BCE")
+  ', cite='<a href="https://commons.wikimedia.org/wiki/File:Mycenaean_World_en.png">User:Alexikoua, User:Panthera tigris tigris, TL User:Reedside</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons') }}
 
 ### Trojan War
 
