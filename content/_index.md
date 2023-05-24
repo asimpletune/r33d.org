@@ -23,6 +23,10 @@ Below is an ongoing list of "sectors" that organize information, thematically, t
 
 1. \* [Foundations of Antiquity](/sectors/foundations-of-antiquity) - from Homer to Aristotle, understanding the context of the ancient world, and how it pertains to today
 
+## Links to Resources
+
+A collection of useful [resources](/resources) for digital reading material, classic artwork in the public domain, virtual tours of ancient Mediterranean pottery, and more.
+
 ## Suggestions/More Information
 
 If you have recommendations of great stuff that we should read, or if you'd like to get in touch please reach out to [info@r33d.org](mailto:info@r33d.org).

@@ -1,9 +1,13 @@
 # Changelog
 
-## 1.0.4 (TODO)
+## 1.0.5 (2023-05-24)
 
 - add 'Foundations of Antiquity' as first 'public sector', along with some preliminary content
 - add 'public sectors' section to landing page
+
+## 1.0.4 (2023-05-17)
+
+-add a 'resources' section to landing, along with a separate page
 
 ## 1.0.3 (2023-05-17)
 
