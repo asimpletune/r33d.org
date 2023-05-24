@@ -1,0 +1,11 @@
+<div class="border-l ml-12 py-12">
+  <ol class="-ml-[13.5px] list-image-[url(/icon/circle-fill.svg)]">
+    {% for epoch in events %}
+    <li>
+      <div class="">
+        {{ epoch | markdown | safe }}
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</div>

@@ -17,6 +17,8 @@ This corresponds roughly to the [Archaic](https://en.wikipedia.org/wiki/Archaic_
   - [Neolithic Greece and Earlier](#neolithic-greece-and-earlier)
   - [Bronze Age (c. 3200 – c. 1200 BCE)](#bronze-age-c-3200-c-1200-bce)
   - [The Greek Dark Ages (c. 1100 – c. 750 BCE)](#the-greek-dark-ages-c-1100-c-750-bce)
+- [The Peloponnesian War](#the-peloponnesian-war)
+  - [Introduction](#introduction)
 - [Texts](#texts)
 <!-- /TOC -->
 
@@ -106,7 +108,27 @@ One important consequence of this time period was the dismantling of the [palace
   fig(img=`![Map depicting the two sides of the Peloponnesian War](/img/peloponnesian-war-map-1899.webp 'The *Delian League* (Athens) and the *Peloponnesian League* (Sparta)')`, cite='<a href="https://commons.wikimedia.org/wiki/File:History_of_Greece_for_High_Schools_and_Academies_(1899)_(14763526485).jpg">Botsford, George Willis, 1862-1917</a>, No restrictions, via Wikimedia Commons')
 }} -->
 
+## The Peloponnesian War
+
+### Introduction
+
+Here's a brief timeline of events leading up to the war
+
+{{timeline(events=[
+  `
+  1184 BCE
+
+  # The Fall of Troy
+  Some stuff happened
+  `,
+  `
+  1150 BCE
+
+  # The Minoan Collapse
+  `
+    ])
+}}
 
 ## Texts
 
-* _The History of the Peloponnesian War_ by [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (Θουκυδίδης) - 🔗 ([PG](https://www.gutenberg.org/ebooks/7142), [Hackett](https://hackettpublishing.com/the-peloponnesian-war))
+* *The History of the Peloponnesian War* by [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (Θουκυδίδης) - 🔗 ([PG](https://www.gutenberg.org/ebooks/7142), [Hackett](https://hackettpublishing.com/the-peloponnesian-war))
