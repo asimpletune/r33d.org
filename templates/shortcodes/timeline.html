@@ -1,10 +1,14 @@
-<div class="border-l ml-12 py-12">
-  <ol class="-ml-[13.5px] list-image-[url(/icon/circle-fill.svg)]">
+<div class="ml-4 md:ml-12 py-4 pb-12 border-l border-attic-gray-200">
+  <ol class="-ml-[8pt] md:ml-0 list-none">
     {% for epoch in events %}
-    <li>
-      <div class="">
-        {{ epoch | markdown | safe }}
-      </div>
+
+    {# Note: The following utility classes are to style the positioning of the timeline marker. It could have been done easily with just lists but Chrome and Safari diverged on how the list bullet was being placed so I'm using `:before` + absolute positioning, which gets the same result across browsers #}
+    <li class="relative before:content-[url(/icon/circle-fill.svg)]
+    before:absolute
+    before:-left-6
+    md:before:-left-9
+    ">
+      {{ epoch | markdown | safe }}
     </li>
     {% endfor %}
   </ol>
