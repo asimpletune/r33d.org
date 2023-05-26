@@ -81,6 +81,10 @@ The following is an alphabetically sorted list of museums, galleries, and other 
 * [PBS Eons](https://www.youtube.com/@eons) - natural history from a geological perspective.
 * [History with Cy](https://www.youtube.com/@HistorywithCy) - ancient and medieval history.
 
+## Specialized Information
+
+* IOC's site about the [Ancient Olympic Games](https://olympics.com/ioc/ancient-olympic-games)
+
 ## Tools
 
 * Calibre e-book management software - ([Homepage](https://calibre-ebook.com), [GitHub](https://github.com/kovidgoyal/calibre))
