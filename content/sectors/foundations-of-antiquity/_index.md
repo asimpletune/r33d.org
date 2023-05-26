@@ -110,6 +110,12 @@ One important consequence of this time period was the dismantling of the [palace
 
 ## The Peloponnesian War
 
+The Peloponnesian War took place in the years 431 - 404 BCE between Sparta and her allies as the "Peloponnesian League", and Athens and her allies, the "Delian League", and it was the greatest conflict,  in scale, the Ancient Greek world had seen up until that point, not unlike the first World War of the 20th century. Fortunately for us, an Athenian who lived, and served, through the war, named Thucydides, chronicled its events in what became to be one of the first works of history.
+
+{{
+  fig(img=`![Map depicting the two sides of the Peloponnesian War](/img/peloponnesian-war-map-1899.webp 'The *Delian League* (Athens) and the *Peloponnesian League* (Sparta)')`, cite='<a href="https://commons.wikimedia.org/wiki/File:History_of_Greece_for_High_Schools_and_Academies_(1899)_(14763526485).jpg">Botsford, George Willis, 1862-1917</a>, No restrictions, via Wikimedia Commons')
+}}
+
 ### Introduction
 
 Here's a brief timeline of events leading up to the war
