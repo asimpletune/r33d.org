@@ -17,6 +17,8 @@ This corresponds roughly to the [Archaic](https://en.wikipedia.org/wiki/Archaic_
   - [Neolithic Greece and Earlier](#neolithic-greece-and-earlier)
   - [Bronze Age (c. 3200 – c. 1200 BCE)](#bronze-age-c-3200-c-1200-bce)
   - [The Greek Dark Ages (c. 1100 – c. 750 BCE)](#the-greek-dark-ages-c-1100-c-750-bce)
+- [The Peloponnesian War](#the-peloponnesian-war)
+  - [Introduction](#introduction)
 - [Texts](#texts)
 <!-- /TOC -->
 
@@ -106,7 +108,79 @@ One important consequence of this time period was the dismantling of the [palace
   fig(img=`![Map depicting the two sides of the Peloponnesian War](/img/peloponnesian-war-map-1899.webp 'The *Delian League* (Athens) and the *Peloponnesian League* (Sparta)')`, cite='<a href="https://commons.wikimedia.org/wiki/File:History_of_Greece_for_High_Schools_and_Academies_(1899)_(14763526485).jpg">Botsford, George Willis, 1862-1917</a>, No restrictions, via Wikimedia Commons')
 }} -->
 
+## The Peloponnesian War
+
+The Peloponnesian War took place in the years 431 - 404 BCE between Sparta and her allies as the "Peloponnesian League", and Athens and her allies, the "Delian League", and it was the greatest conflict,  in scale, the Ancient Greek world had seen up until that point, not unlike the first World War of the 20th century. Fortunately for us, an Athenian who lived, and served, through the war, named Thucydides, chronicled its events in what became to be one of the first works of history.
+
+{{
+  fig(img=`![Map depicting the two sides of the Peloponnesian War](/img/peloponnesian-war-map-1899.webp 'The *Delian League* (Athens) and the *Peloponnesian League* (Sparta)')`, cite='<a href="https://commons.wikimedia.org/wiki/File:History_of_Greece_for_High_Schools_and_Academies_(1899)_(14763526485).jpg">Botsford, George Willis, 1862-1917</a>, No restrictions, via Wikimedia Commons')
+}}
+
+### Introduction
+
+Here's a brief timeline of events leading up to the war, according to Thucydides
+
+{{timeline(events=[
+  `
+  **c. 1200 BCE and earlier, Before the Trojan War**
+
+  * The concept of "Hellenes" (Greeks) did not yet exist.
+  * In Greek Tradition, the mythical King Minos of Knossos was believed to have developed the first navy
+  * Most greeks carried
+  `,
+  `
+  **Trojan War**
+
+  * Homer only refers to the Achilles' followers from Phthiotis as "Hellenes"
+  `,
+  `
+  1184 BCE
+
+  # The Fall of Troy
+  Some stuff happened
+  `,
+  `
+  1150 BCE
+
+  # The Minoan Collapse
+  `
+    ])
+}}
+
+<!-- WIP
+### Appendices
+
+#### Glossary
+
+##### Peloponnesos/Peloponnesians
+##### Boiotia
+##### Thessaly
+##### Arkadia
+##### Hellas/Hellenes
+##### Attica
+##### Athens/Athenians
+##### Deukalion
+##### Hellen
+##### Pelasgian "and the various tribes, most extensively the Pelasgian, gave their names to the areas"
+##### Phthiotis "Hellen and his sons became powerful in Phthiotis and were called in to help other cities, each tended now to be called Hellenes through the association"
+##### Ozolian Lokris "They also raided each other on land. Much of Hellas still lives in the old way up to the present, Ozolian Lokris, Aitolia, Akarnania, that part of the mainland generally, and for these mainlanders the habit of carrying weapons has survived as a result of the old-style plundering."
+##### Aitolia "They also raided each other on land. Much of Hellas still lives in the old way up to the present, Ozolian Lokris, Aitolia, Akarnania, that part of the mainland generally, and for these mainlanders the habit of carrying weapons has survived as a result of the old-style plundering."
+##### Akarnania "They also raided each other on land. Much of Hellas still lives in the old way up to the present, Ozolian Lokris, Aitolia, Akarnania, that part of the mainland generally, and for these mainlanders the habit of carrying weapons has survived as a result of the old-style plundering."
+##### Delos "when Delos was purified by the Athenians in this war and all the burials on the island removed, more than half proved to be Karian"
+##### oaths to Tyndareus
+##### Pelops "Those Peloponnesians who have received the clearest account through ancestral tradition say that first Pelops acquired power through the enormous wealth he brought with him among a poor population when he came from Asia"
+##### Eurystheus "later the position of his descendants was even greater when Eurystheus was killed in Attica by the Herakleidai after entrusting his kingdom to his maternal uncle Atreus"
+##### Herakleidai "later the position of his descendants was even greater when Eurystheus was killed in Attica by the Herakleidai after entrusting his kingdom to his maternal uncle Atreus"
+##### Herakleidai "later the position of his descendants was even greater when Eurystheus was killed in Attica by the Herakleidai after entrusting his kingdom to his maternal uncle Atreus"
+
+##### [Pelasgians](https://en.wikipedia.org/wiki/Pelasgians) (Πελασγοί)
+
+The name used by writers from classical Greece to refer to the indigenous inhabitants before the emergence of the Greeks.
+
+##### [Achaea Phthiotis](https://en.wikipedia.org/wiki/Achaea_Phthiotis) (Ἀχαΐα Φθιῶτις)
+
+Also simply "Phthiotis" was a historical region of Thessaly in ancient Greece, and the home to [Achilles](/todo) -->
 
 ## Texts
 
-* _The History of the Peloponnesian War_ by [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (Θουκυδίδης) - 🔗 ([PG](https://www.gutenberg.org/ebooks/7142), [Hackett](https://hackettpublishing.com/the-peloponnesian-war))
+* *The History of the Peloponnesian War* by [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (Θουκυδίδης) - 🔗 ([PG](https://www.gutenberg.org/ebooks/7142), [Hackett](https://hackettpublishing.com/the-peloponnesian-war))
