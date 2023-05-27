@@ -25,12 +25,16 @@ theme_color = "#fda4af"
 
 ## Public Domain Artwork [A/Z]:
 
-The following is an alphabetically sorted list of museums and galleries that offer art under a [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) License.
+The following is an alphabetically sorted list of museums, galleries, and other resources that offer art under a [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) License.
 
 * [Aberdeen Archives Gallery & Museums](https://emuseum.aberdeencity.gov.uk/collections/102307/open-access-images--fine-art)
 * [Art Institute of Chicago](https://www.artic.edu/collection?q=test&is_public_domain=1)
+* [Artvee](https://artvee.com/) - aggregates many of the sources on this page
+* [Belvedere Museum](https://sammlung.belvedere.at)
 * [Birmingham Museums](https://dams.birminghammuseums.org.uk/asset-bank/action/viewDefaultHome?browseType=folders)
 * [Brighton & Hove Museums](https://collections.brightonmuseums.org.uk/?q=&departments=)
+* [Creative Commons](https://search.creativecommons.org)
+* [Dallas Museum of Art](https://dma.org/press-release/dma-now-open-access-institution)
 * [Finish National Gallery](https://www.kansallisgalleria.fi/en)
 * [Getty Museum](http://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1)
 * [Grand Rapids Public Museum](https://www.grpmcollections.org/Browse/Collections)
@@ -38,6 +42,8 @@ The following is an alphabetically sorted list of museums and galleries that off
 * [Library of Congress](https://www.loc.gov/free-to-use/)
 * [Los Angeles County Museum of Art](https://collections.lacma.org/)
 * [Minneapolis Institute of Art](https://collections.artsmia.org/)
+* [Missouri History Museum](https://mohistory.org/research/photographs-prints/photograph-print-collection-guides-and-finding-aids)
+* [MoMa UK](https://www.moma.co.uk/public-domain-images/)
 * [Museum of New Zealand](https://collections.tepapa.govt.nz/)
 * [National Gallery of Art](https://www.nga.gov)
 * [National Gallery of Denmark](https://open.smk.dk/en/art?q=*&page=0)
@@ -48,12 +54,14 @@ The following is an alphabetically sorted list of museums and galleries that off
 * [Paris Museés](https://www.parismuseescollections.paris.fr/en)
 * [Rijksmuseum](https://www.rijksmuseum.nl/en)
 * [RISD Museum](https://risdmuseum.org/art-design/collection)
+* [Saint Louis Art Museum](https://www.slam.org/public-domain-and-open-access/)
 * [The Cleveland Museum of Art](https://www.clevelandart.org/art/collection/search?only-open-access=1)
 * [The Metropolitan Museum of Art](https://www.metmuseum.org/art/the-collection#browse-by)
 * [The Smithsonian Institution](https://www.si.edu/search/collection-images?edan_q=landscape&edan_fq[0]=object_type%3A%22Paintings%22)
 * [The Walters Art Museum](https://art.thewalters.org)
 * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 * [Yale University Art Gallery](https://artgallery.yale.edu/collection/search)
+* [Yale British Art Collection](https://collections.britishart.yale.edu)
 
 ## Virtual Tours:
 
@@ -66,6 +74,7 @@ The following is an alphabetically sorted list of museums and galleries that off
 
 * [Historia Civilis](https://www.youtube.com/@HistoriaCivilis/) - one of the best channels on YouTube for information about antiquity. The author's series on [Julius Caesar](https://www.youtube.com/watch?v=gsK4nX0tCGQ&list=PLODnBH8kenOoLUW8BmHhX55I-qexvyU32&pp=iAQB) and [Octavian](https://www.youtube.com/watch?v=2-PYwEsTll0&list=PLODnBH8kenOonO62euH1PLlMm8hT5lHlL&pp=iAQB) in particular are excellent.
 * [North 02](https://www.youtube.com/@NORTH02) - specializes in Neolithic and Paleolithic content, with in-depth videos on Homo sapiens and our closest ancestors.
+* [New Historia](https://www.youtube.com/@NewHistoria/videos) - excellent 3d videos of ancient times (e.g. [Ancient Egypt](https://www.youtube.com/watch?v=omajagaozk0), [Ancient Greece](https://www.youtube.com/watch?v=3YrJxz6xsAk&t=2s), and [Ancient Rome](https://www.youtube.com/watch?v=5XxA4CX_Ip8))
 * [Stefan Milo](https://www.youtube.com/@StefanMilo) - an archaeology channel with great information on the bronze age.
 * [toldinstone](https://www.youtube.com/@toldinstone) - another excellent channel specializing in everyday ancient life, especially about Rome.
 * [Geodiode](https://www.youtube.com/@Geodiode) - in-depth overviews of different countries' geography and history.
