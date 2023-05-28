@@ -73,6 +73,7 @@ The following is an alphabetically sorted list of museums, galleries, and other 
 ## YouTube Channels
 
 * [Historia Civilis](https://www.youtube.com/@HistoriaCivilis/) - one of the best channels on YouTube for information about antiquity. The author's series on [Julius Caesar](https://www.youtube.com/watch?v=gsK4nX0tCGQ&list=PLODnBH8kenOoLUW8BmHhX55I-qexvyU32&pp=iAQB) and [Octavian](https://www.youtube.com/watch?v=2-PYwEsTll0&list=PLODnBH8kenOonO62euH1PLlMm8hT5lHlL&pp=iAQB) in particular are excellent.
+* [Thersites the Historian](https://www.youtube.com/@ThersitestheHistorian/) - specializes in Classical Greek history, with very high quality, yet concise, university style lectures
 * [North 02](https://www.youtube.com/@NORTH02) - specializes in Neolithic and Paleolithic content, with in-depth videos on Homo sapiens and our closest ancestors.
 * [New Historia](https://www.youtube.com/@NewHistoria/videos) - excellent 3d videos of ancient times (e.g. [Ancient Egypt](https://www.youtube.com/watch?v=omajagaozk0), [Ancient Greece](https://www.youtube.com/watch?v=3YrJxz6xsAk&t=2s), and [Ancient Rome](https://www.youtube.com/watch?v=5XxA4CX_Ip8))
 * [Imperium Romanum](https://www.youtube.com/@ImperiumRomanumYT/) - a group of friends who make informative videos about Ancient Rome using real life actors and a homemade set.
